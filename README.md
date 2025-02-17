@@ -7,7 +7,7 @@ Spatial Resolution Reduction: Reducing the spatial resolution of a grayscale ima
 The project includes Python implementations, visual results, performance analysis, and graphs to analyze the effects of different parameters.
 
 Table of Contents
-Introduction
+'Introduction'
 Implementation Details
 Intensity-Level Quantization
 Spatial Resolution Reduction
