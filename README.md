@@ -7,20 +7,23 @@ Spatial Resolution Reduction: Reducing the spatial resolution of a grayscale ima
 The project includes Python implementations, visual results, performance analysis, and graphs to analyze the effects of different parameters.
 
 Table of Contents  
-##Introduction  
-##Implementation Details  
-###Intensity-Level Quantization  
-###Spatial Resolution Reduction  
-##Visual Results and Analysis  
-##Performance Analysis  
-##How to Run the Code  
-##Dependencies  
-##Conclusion  
+**Introduction**  
+**Implementation Details  
+  Intensity-Level Quantization  
+  Spatial Resolution Reduction  
+**Visual Results and Analysis**
+**Performance Analysis**  
+**How to Run the Code**  
+**Dependencies**  
+**Conclusion**  
 
-Introduction
-Image processing techniques like quantization and resolution reduction are essential for tasks such as image compression, optimization, and analysis. This project explores:
-Intensity-Level Quantization: Reducing the number of intensity levels in an image to achieve compression or artistic effects.
-Spatial Resolution Reduction: Reducing the number of pixels in an image to decrease its spatial resolution.
+
+
+***Introduction***
+Image processing techniques like quantization and resolution reduction are essential for tasks such as image compression, optimization, and analysis.  
+**This project explores: ** 
+***Intensity-Level Quantization:*** Reducing the number of intensity levels in an image to achieve compression or artistic effects.  
+***Spatial Resolution Reduction:*** Reducing the number of pixels in an image to decrease its spatial resolution.  
 The project includes:
 Python implementations of both techniques.
 Visual results for different parameter values.
